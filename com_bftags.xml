@@ -3,7 +3,7 @@
         <name>BF Tags</name>
         <element>com_bftags</element>
         <type>component</type>
-        <version>5.1.0</version>
+        <version>5.1.0-rc</version>
         <downloads>
             <downloadurl type="full" format="zip">https://github.com/bluefrontier-it-ltd/joomoilerplate-packages/releases/download/com_bftags-5.1.0-rc/com_bftags-5.1.0-rc.zip</downloadurl>
         </downloads>
