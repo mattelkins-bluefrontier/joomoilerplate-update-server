@@ -1,16 +1,16 @@
 <updates>
     <update>
-        <name>BF Tags 5.1.0-rc</name>
+        <name>BF Tags 5.1.0</name>
         <element>com_bftags</element>
         <type>component</type>
-        <version>5.1.0-rc</version>
+        <version>5.1.0</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://github.com/bluefrontier-it-ltd/joomoilerplate-packages/releases/download/com_bftags-5.1.0-rc/com_bftags-5.1.0-rc.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://github.com/bluefrontier-it-ltd/joomoilerplate-packages/releases/download/com_bftags-5.1.0/com_bftags-5.1.0.zip</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
         <targetplatform name="joomla" version="5.*"/>
-        <sha256></sha256>
+        <sha256>1b6bc04c6ad16074e2511eeb55a924f8eda9abf8d8fc1a0a9e04c6d578c012b3</sha256>
     </update>
 </updates>
