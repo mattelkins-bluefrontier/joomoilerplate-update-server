@@ -1,6 +1,6 @@
 <updates>
     <update>
-        <name>BF Tags</name>
+        <name>BF Tags 5.1.0-rc</name>
         <element>com_bftags</element>
         <type>component</type>
         <version>5.1.0-rc</version>
