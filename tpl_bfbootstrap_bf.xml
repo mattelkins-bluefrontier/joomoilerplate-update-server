@@ -1,0 +1,16 @@
+<updates>
+    <update>
+        <name>BF Bootstrap BF 5.1.1</name>
+        <element>bfbootstrap_bf</element>
+        <type>template</type>
+        <version>5.1.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/282816577</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>24a481e189fad317e6d4d198698007f8adeceb70e65326167a47716dab9c45ae</sha256>
+    </update>
+</updates>
