@@ -1,16 +1,16 @@
 <updates>
     <update>
-        <name>BF Media 5.1.0</name>
+        <name>BF Media 5.1.1</name>
         <element>com_bfmedia</element>
         <type>component</type>
-        <version>5.1.0</version>
+        <version>5.1.1</version>
         <downloads>
-            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/280219404</downloadurl>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/290913559</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
         <targetplatform name="joomla" version="5.*"/>
-        <sha256>68576fb9876154883ca02d1b3b32f5e74a4f961537a907b8a3c288b21f6bbae6</sha256>
+        <sha256>70b6893d1b8922763c9d20dd627e9474c38d9dd6b9c4910713eee0b0b63a5f73</sha256>
     </update>
 </updates>
