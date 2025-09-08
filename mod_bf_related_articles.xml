@@ -1,0 +1,17 @@
+<updates>
+    <update>
+        <name>BF Related Articles 5.1.0</name>
+        <element>mod_bf_related_articles</element>
+        <type>module</type>
+        <version>5.1.0</version>
+        <client>site</client>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/291008474</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>a85bd6f73ba9f9c198462631e0513be2a790e29ed24207a57c0c12845c4a278b</sha256>
+    </update>
+</updates>
