@@ -1,0 +1,17 @@
+<updates>
+    <update>
+        <name>BF Article Share 5.1.0</name>
+        <element>mod_bf_article_share</element>
+        <type>module</type>
+        <version>5.1.0</version>
+        <client>site</client>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/290957769</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>397426595fb444619c2178c8c53e2d72be0fe2e4015f4bd11c5d5e2ef45741e9</sha256>
+    </update>
+</updates>
