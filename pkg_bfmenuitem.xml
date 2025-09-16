@@ -1,0 +1,16 @@
+<updates>
+    <update>
+        <name>BF Menu Item Options 5.1.1</name>
+        <element>pkg_bfmenuitem</element>
+        <type>package</type>
+        <version>5.1.1</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/293856121</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>b41bbe65a3b89b975c9003583c0a7fe4aca3a69181f690e73687f55b1b01ec20</sha256>
+    </update>
+</updates>
