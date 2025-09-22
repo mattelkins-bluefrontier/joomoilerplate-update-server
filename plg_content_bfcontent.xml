@@ -1,0 +1,17 @@
+<updates>
+    <update>
+        <name>Content - BF Content 5.0.3</name>
+        <element>bfcontent</element>
+        <type>plugin</type>
+        <version>5.0.3</version>
+        <client>site</client>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296001074</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>5d3ecf039ae5ca3ab0ee9e0d06038d91ef05709b18b281c6ae94c6b56ef6d2b1</sha256>
+    </update>
+</updates>
