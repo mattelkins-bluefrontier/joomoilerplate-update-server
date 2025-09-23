@@ -1,0 +1,17 @@
+<updates>
+    <update>
+        <name>System - BF Canonicals 5.0.4</name>
+        <element>bfcanonicals</element>
+        <type>plugin</type>
+        <version>5.0.4</version>
+        <client>site</client>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296343881</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>f3445fe2df3b36643f91b6e7909d8b545b92cad443cfd817ceaf6d9e13f9b2f5</sha256>
+    </update>
+</updates>
