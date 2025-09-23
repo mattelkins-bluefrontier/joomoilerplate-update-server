@@ -1,17 +1,17 @@
 <updates>
     <update>
-        <name>OSMap - BF Content 5.0.1</name>
+        <name>OSMap - BF Content 5.0.2</name>
         <element>com_bfcontent</element>
         <type>plugin</type>
-        <version>5.0.1</version>
+        <version>5.0.2</version>
         <client>site</client>
         <downloads>
-            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296054586</downloadurl>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296339619</downloadurl>
         </downloads>
         <tags>
             <tag>stable</tag>
         </tags>
         <targetplatform name="joomla" version="5.*"/>
-        <sha256>633773a4a73c0ac4bfe94ef2b86df3f843c8b157385fdc7cadab6c86062cd11b</sha256>
+        <sha256>5db48b9ce041afd1d06d8079c0c633139538685a0cec68a472569eedf38353c0</sha256>
     </update>
 </updates>
