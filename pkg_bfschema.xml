@@ -1,0 +1,16 @@
+<updates>
+    <update>
+        <name>BF Schema 5.1.0</name>
+        <element>pkg_bfschema</element>
+        <type>package</type>
+        <version>5.1.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296331921</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>eab34a18069f5abccbf74806bbb63f6082b84e09926a6127b6b967c42d0e7b50</sha256>
+    </update>
+</updates>
