@@ -1,0 +1,17 @@
+<updates>
+    <update>
+        <name>System - BF Open Graph 5.0.2</name>
+        <element>bfopengraph</element>
+        <type>plugin</type>
+        <version>5.0.2</version>
+        <client>site</client>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296354811</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>3d79fcb8e18bd26961534c3770f8bf7d728356f50e0c4e333418941517bdc9aa</sha256>
+    </update>
+</updates>
