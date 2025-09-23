@@ -1,0 +1,16 @@
+<updates>
+    <update>
+        <name>BF RSForm! Pro 5.1.0</name>
+        <element>pkg_bfrsfp</element>
+        <type>package</type>
+        <version>5.1.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296360174</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>04450b606acb645cdc23bc3ae7662b637aec875076b0483dc484457bbd0a2020</sha256>
+    </update>
+</updates>
