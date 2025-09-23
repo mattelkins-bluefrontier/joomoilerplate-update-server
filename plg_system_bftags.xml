@@ -1,0 +1,17 @@
+<updates>
+    <update>
+        <name>System - BF Tags 5.2.0</name>
+        <element>bftags</element>
+        <type>plugin</type>
+        <version>5.2.0</version>
+        <client>site</client>
+        <downloads>
+            <downloadurl type="full" format="zip">https://api.github.com/repos/bluefrontier-it-ltd/joomoilerplate-packages/releases/assets/296350765</downloadurl>
+        </downloads>
+        <tags>
+            <tag>stable</tag>
+        </tags>
+        <targetplatform name="joomla" version="5.*"/>
+        <sha256>b443a5df1770324b2a514fc21b808b3f330e2fa3bde570722721d60925f5ad2c</sha256>
+    </update>
+</updates>
